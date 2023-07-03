@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🔭 &nbsp; I’m currently learning kubernetes, docker🐳, devOps, UX, UI and microservice architecture.
+- 🔭 &nbsp; I’m currently learning kubernetes, docker🐳, devOps, and microservice architecture.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Software Engineering.
 - 💼 &nbsp; Full-Stack web developer.
