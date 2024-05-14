@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Software Engineering.
 - 💼 &nbsp; Full-Stack web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security.
+- 🌱 &nbsp; Enthusiast in cyberSecurity.
 
 ### 👨🏻‍💻 **Languages and Tools**  🛠 
 
