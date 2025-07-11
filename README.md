@@ -77,18 +77,6 @@ _[View Project](https://www.elepoch.com)_
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexandergv2117&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=3B82F6&icon_color=3B82F6" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandergv2117&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=3B82F6" alt="Top Languages" />
-</div>
-
----
-
 ## 🌟 Skills Overview
 
 ### **Backend Development**
