@@ -17,7 +17,6 @@ I'm a **Software Engineer** with over 2 years of experience, specializing in **b
 -  🐳 **Containerization** and orchestration with Docker and Docker Swarm
 -  🔄 **CI/CD** pipelines with GitHub Actions
 -  🏗️ **Microservices Architecture** design and implementation
--  🔐 **Authentication & Authorization** systems (Firebase, Cerbos ABAC)
 
 ---
 
@@ -36,8 +35,6 @@ I'm a **Software Engineer** with over 2 years of experience, specializing in **b
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### **DevOps & Infrastructure**
 
@@ -46,12 +43,6 @@ I'm a **Software Engineer** with over 2 years of experience, specializing in **b
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### **Tools & Platforms**
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
@@ -60,7 +51,7 @@ I'm a **Software Engineer** with over 2 years of experience, specializing in **b
 
 ### **The Epoch Times México**
 
-_[View Project](https://alexandergv2117.dev/projects/el-epoch)_
+_[View Project](https://www.elepoch.com)_
 
 🌐 **Full-stack web development** for The Epoch Times México newspaper
 
@@ -74,8 +65,6 @@ _[View Project](https://alexandergv2117.dev/projects/el-epoch)_
 ---
 
 ### **Elecciones USA 2024**
-
-_[View Project](https://alexandergv2117.dev/projects/elecciones-usa-2024)_
 
 🗳️ **Landing Page** for USA 2024 Presidential Election coverage
 
@@ -95,10 +84,6 @@ _[View Project](https://alexandergv2117.dev/projects/elecciones-usa-2024)_
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexandergv2117&theme=radical&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandergv2117&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=3B82F6" alt="Top Languages" />
 </div>
 
@@ -110,14 +95,13 @@ _[View Project](https://alexandergv2117.dev/projects/elecciones-usa-2024)_
 
 -  **Languages:** TypeScript, JavaScript, Node.js
 -  **Frameworks:** NestJS, Express.js
--  **Databases:** PostgreSQL, MongoDB, MySQL
--  **Authentication:** Firebase, JWT, OAuth
+-  **Databases:** PostgreSQL, MongoDB
 -  **Authorization:** Cerbos (ABAC), Role-based access control
 
 ### **Frontend Development**
 
 -  **Frameworks:** React, Next.js
--  **Styling:** TailwindCSS, CSS3, HTML5
+-  **Styling:** TailwindCSS
 -  **Rendering:** SSR, SSG, CSR
 
 ### **DevOps & Infrastructure**
