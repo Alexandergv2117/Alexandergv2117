@@ -1,32 +1,155 @@
-## Hi there 👋, I'm Alexander 🦑
+# 👋 Hi there, I'm Alexander Garcia
 
-### 👨🏻‍💻 About Me
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Software+Engineer;Backend+Developer;DevOps+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
+</div>
 
-- 🔭 &nbsp; I’m currently learning kubernetes, docker🐳, devOps and microservice architecture.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Software Engineering.
-- 💼 &nbsp; Full-Stack web developer.
-- 🌱 &nbsp; Enthusiast in cyberSecurity.
+---
 
-### 👨🏻‍💻 **Languages and Tools**  🛠 
+## 🚀 About Me
 
-<a target="_blank"><img height="40" src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-<a target="_blank"><img height="40" src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
-<a target="_blank"><img height="40" src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-<a target="_blank"><img height="40" src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-<a target="_blank"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/></a>
-<a target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/></a>
-<a target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"/></a>
-<a target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"/></a>
-<a target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/serverless/serverless-icon.svg"/></a>
-<a target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg"/></a>
-<a target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a>
-<a target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/></a>
-<a target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/></a>
-<a target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/></a>
-<a target="_blank"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/></a>
+I'm a **Software Engineer** with over 2 years of experience, specializing in **backend development** using Node.js and NestJS. I'm passionate about **DevOps**, **microservices architecture**, and **cloud infrastructure**. Currently working at **Capital 28** as a Backend Developer, where I've successfully migrated a monolithic CRM system to microservices architecture.
 
-<details>
-  <summary>:zap: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandergv2117&layout=compact&bg_color=ffffff&text_color=333333">
-</details>
+### 🎯 What I Do
+
+-  🔧 **Backend Development** with Node.js, NestJS, and TypeScript
+-  ☁️ **Cloud Infrastructure** management with AWS and Terraform
+-  🐳 **Containerization** and orchestration with Docker and Docker Swarm
+-  🔄 **CI/CD** pipelines with GitHub Actions
+-  🏗️ **Microservices Architecture** design and implementation
+-  🔐 **Authentication & Authorization** systems (Firebase, Cerbos ABAC)
+
+---
+
+## 🛠️ Tech Stack
+
+### **Backend & APIs**
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **Frontend & UI**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### **DevOps & Infrastructure**
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### **Tools & Platforms**
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🚀 Featured Projects
+
+### **The Epoch Times México**
+
+_[View Project](https://alexandergv2117.dev/projects/el-epoch)_
+
+🌐 **Full-stack web development** for The Epoch Times México newspaper
+
+-  Migrated from WordPress to **Next.js** with **TailwindCSS**
+-  Implemented **Server Side Rendering (SSR)** for improved SEO and loading speed
+-  Configured **Docker Swarm** and **Caddy** for deployment
+-  Set up **GitHub Actions** for CI/CD pipeline
+
+**Tech Stack:** TypeScript, Next.js, TailwindCSS, GitHub Actions, Docker
+
+---
+
+### **Elecciones USA 2024**
+
+_[View Project](https://alexandergv2117.dev/projects/elecciones-usa-2024)_
+
+🗳️ **Landing Page** for USA 2024 Presidential Election coverage
+
+-  Built with **Next.js** and **TailwindCSS**
+-  Implemented **Static Site Generation (SSG)** for optimal performance
+-  Integrated WordPress API for dynamic content
+-  Automated deployment with **GitHub Actions**, **Docker Swarm**, and **Caddy**
+
+**Tech Stack:** TypeScript, Next.js, TailwindCSS, GitHub Actions, Docker
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alexandergv2117&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=3B82F6&icon_color=3B82F6" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexandergv2117&theme=radical&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandergv2117&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=3B82F6" alt="Top Languages" />
+</div>
+
+---
+
+## 🌟 Skills Overview
+
+### **Backend Development**
+
+-  **Languages:** TypeScript, JavaScript, Node.js
+-  **Frameworks:** NestJS, Express.js
+-  **Databases:** PostgreSQL, MongoDB, MySQL
+-  **Authentication:** Firebase, JWT, OAuth
+-  **Authorization:** Cerbos (ABAC), Role-based access control
+
+### **Frontend Development**
+
+-  **Frameworks:** React, Next.js
+-  **Styling:** TailwindCSS, CSS3, HTML5
+-  **Rendering:** SSR, SSG, CSR
+
+### **DevOps & Infrastructure**
+
+-  **Containerization:** Docker, Docker Swarm
+-  **Cloud:** AWS (EC2, S3, RDS, Lambda)
+-  **IaC:** Terraform
+-  **Configuration Management:** Ansible
+-  **CI/CD:** GitHub Actions
+-  **Web Server:** Caddy, Nginx
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="https://alexandergv2117.dev" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/alexandergv2117" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:alexandergv2117@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Alexandergv2117" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%98%8A" alt="Typing SVG" />
+</div>
