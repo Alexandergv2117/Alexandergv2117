@@ -1,49 +1,46 @@
-# Alexander Garcia
+<div align="center">
 
-**I build frontend, backend and infrastructure.**
-Software engineer in Mexico. Currently on the founding team at [Nuke AI](https://nuke-ai.com/), building complete systems and landing pages, running the infrastructure, and shipping automations and bots with n8n and AI.
+<img src="./assets/banner.svg" alt="Alexander Garcia, software engineer in Mexico: I build frontend, backend and infrastructure" width="100%" />
 
-[Portfolio](https://alexandergv2117.dev) · [LinkedIn](https://www.linkedin.com/in/alexander-garcia-vizcarra-329765257/) · [Email](mailto:alexandergv2117@gmail.com) · [Español](https://alexandergv2117.dev/es/)
+<br />
+
+<a href="https://alexandergv2117.dev"><img src="https://img.shields.io/badge/Portfolio-6ea8ff?style=for-the-badge&logo=googlechrome&logoColor=07080a&labelColor=15171b" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/alexander-garcia-vizcarra-329765257/"><img src="https://img.shields.io/badge/LinkedIn-6ea8ff?style=for-the-badge&logo=linkedin&logoColor=07080a&labelColor=15171b" alt="LinkedIn" /></a>
+<a href="mailto:alexandergv2117@gmail.com"><img src="https://img.shields.io/badge/Email-6ea8ff?style=for-the-badge&logo=gmail&logoColor=07080a&labelColor=15171b" alt="Email" /></a>
+<a href="https://alexandergv2117.dev/es/"><img src="https://img.shields.io/badge/Espa%C3%B1ol-6ea8ff?style=for-the-badge&logo=googletranslate&logoColor=07080a&labelColor=15171b" alt="Español" /></a>
+
+</div>
+
+<br />
+
+On the founding team at **[Nuke AI](https://nuke-ai.com/)**, building complete systems and landing pages, running the infrastructure, and shipping automations and bots with n8n and AI.
 
 ## What I build
 
-| Frontend | Backend | Infrastructure |
-| --- | --- | --- |
-| React, Next.js, Tailwind CSS, Astro | Node.js, NestJS, Go, PostgreSQL | Docker Swarm, AWS (EC2 + Auto Scaling), Kubernetes, Terraform, Ansible |
+<img src="./assets/layers.svg" alt="Frontend: React, Next.js, Tailwind CSS, Astro. Backend: Node.js, NestJS, Go, PostgreSQL, Meilisearch, n8n. Infrastructure: Docker Swarm, AWS EC2 with Auto Scaling, Kubernetes, Terraform, Ansible, Traefik, Envoy, Cloudflare." width="100%" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,astro,nodejs,nestjs,go,postgres,docker,kubernetes,aws,terraform,ansible,cloudflare,linux,githubactions&perline=8" alt="React, Next.js, Tailwind CSS, Astro, Node.js, NestJS, Go, PostgreSQL, Docker, Kubernetes, AWS, Terraform, Ansible, Cloudflare, Linux, GitHub Actions" />
-</p>
+## Where the same app runs
 
-Also: Traefik, Envoy, Cloudflare, n8n.
+<img src="./assets/architecture.svg" alt="Cloudflare in front of three ways to run the app: Docker Swarm on a private VPS, an AWS Auto Scaling Group of EC2 instances, and Kubernetes on AWS. Ansible configures the VPS and the EC2 instances; Terraform builds everything on AWS." width="100%" />
 
-## How it runs
-
-The same app can run on private VPS servers with Docker Swarm, on AWS EC2 inside an Auto Scaling Group, or on Kubernetes in AWS. Ansible configures the servers and Terraform builds everything on AWS.
-
-```mermaid
-flowchart LR
-  U([User]) --> CF[Cloudflare]
-  CF --> AWS["AWS<br/>EC2 Auto Scaling · Kubernetes"]
-  CF --> VPS["Private VPS<br/>Docker Swarm"]
-  TF[Terraform] -.-> AWS
-  AN[Ansible] -.-> AWS
-  AN -.-> VPS
-```
-
-Interactive versions of seven architectures, from Next.js + PostgreSQL to the full setup, are in the [Architecture Lab](https://alexandergv2117.dev/#architecture-lab) on my portfolio.
+Seven interactive architectures, from Next.js + PostgreSQL to this full setup, live in the **[Architecture Lab](https://alexandergv2117.dev/#architecture-lab)**.
 
 ## Experience
 
-- **Nuke AI**, Sept 2025 to present, remote. Founding team: systems, landing pages, infrastructure, n8n and AI bots.
-- **Dwit México**, 2025. Moved scattered hosting to one VPS with Docker Swarm and Traefik; costs dropped about 50%.
-- **Capital 28**, 2023 to 2025. Led a backend migration from monolith to microservices; Firebase auth with Cerbos (ABAC).
-- **Wizeline**, 2022 to 2023. Internal recognition platform; upgraded Node.js 12/14 to 18.
+| | | |
+| --- | --- | --- |
+| **Nuke AI** 🟢 | Founding team · remote | Sept 2025 – present |
+| **Dwit México** | Full Stack Developer | 2025 · moved scattered hosting to one VPS with Docker Swarm, costs down about 50% |
+| **Capital 28** | Backend Developer | 2023 – 2025 · monolith to microservices, Firebase auth with Cerbos (ABAC) |
+| **Wizeline** | Full Stack Intern | 2022 – 2023 · internal recognition platform, Node.js 12/14 to 18 |
 
-## Contact
+<br />
 
-Tell me what you're building and where it hurts: [alexandergv2117@gmail.com](mailto:alexandergv2117@gmail.com)
+<div align="center">
 
----
+**Tell me what you're building and where it hurts.**
+[alexandergv2117@gmail.com](mailto:alexandergv2117@gmail.com)
 
 <sub>**ES:** Ingeniero de software. Construyo frontend, backend e infraestructura. Más en [alexandergv2117.dev/es](https://alexandergv2117.dev/es/).</sub>
+
+</div>
